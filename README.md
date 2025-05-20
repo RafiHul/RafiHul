@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java Spring Framework and Go</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning FrontEnd (Tailwind and ReactJs)</p>
 
 ###
 
