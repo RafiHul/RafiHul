@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Ai Engineer & Developer</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Ai Engineer & Developer</p>
 
 ###
 
